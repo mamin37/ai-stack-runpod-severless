@@ -1,0 +1,9 @@
+runpod
+torch
+transformers
+accelerate
+diffusers
+safetensors
+huggingface_hub
+pillow
+numpy
