@@ -5,7 +5,7 @@ This is very different from pods, so I’ll build you a clean GitHub project tha
 ✅ LLM (LLaMA via fast API engine)
 ✅ FLUX (ComfyUI headless)
 ✅ Unified handler (single API entry)
-✅ Persistent volume support
+✅ Persistent volume support 
 
 ## Architecture
 /handler.py   → RunPod entrypoint
